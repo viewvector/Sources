@@ -1,5 +1,3 @@
--- [Date: 02/19/2025];
-
 if not LPH_OBFUSCATED then
 	function LPH_NO_VIRTUALIZE(f)
 		return f

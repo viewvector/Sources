@@ -1,5 +1,3 @@
--- [Date: 09/21/2025];
-
 local menu, fonts, UI, framework, flags;
 do -- startup   
     if (not game:IsLoaded()) then repeat game.Loaded:Wait() until game:IsLoaded() end;

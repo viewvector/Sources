@@ -1,5 +1,3 @@
--- [Date: 09/23/2025];
-
 local LocalPlayer = game:GetService("Players").LocalPlayer
 local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
 -- antiliases

@@ -1,5 +1,3 @@
--- [Date: 08/07/2025];
-
 -- antiliases
 if not LPH_OBFUSCATED then
 	LPH_JIT = function(Function) return Function end
